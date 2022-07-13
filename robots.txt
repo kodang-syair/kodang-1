@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://kodang-syair.github.io/kodang-1/sitemap.xml
